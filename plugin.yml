@@ -1,0 +1,5 @@
+name: MeuPlugin
+version: 1.0.0
+api: 5.0.0
+author: Ducky
+main: testeplugin\Main
